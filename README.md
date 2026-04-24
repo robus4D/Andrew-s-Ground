@@ -28,3 +28,11 @@ Um Missverständnisse in der räumlichen Orientierung innerhalb von Andrew’s G
     * Das 4D-Feld (Andrew's Ground) bleibt in der 4. Dimension (Innen) auf seiner ursprünglichen hochenergetischen Temperatur, da es dort keine "Umgebung" zum Abkühlen gibt.
     * Abkühlung findet nur "nach Außen" in den 3D-Raum statt.
     * **Folge:** Materie dockt nicht an QGP an – sie ist die abgekühlte Oberfläche des QGP. Die "Innenseite" jedes Teilchens bleibt flüssiges/heißes QGP und ist somit untrennbar mit dem Feld verbunden.
+
+---
+
+# Wichtige Korrektur zur Gravitation & Raumdynamik
+
+* **Keine Raum-Rotation:** Entgegen früherer Annahmen rotiert der 3D-Raum des Universums nicht als Ganzes. Die Rotation war lediglich ein Merkmal des QGPs, welches unser universum bildete (frühes QGP-Stadium) bis zur der Formierungsphase der Materie.
+* **Gravitation als 4D-Sog:** Gravitation ist keine Fliehkraft. Sie ist der direkte, mechanische Zug, den das 4D-QGP-Meer (**Andrew’s Ground**) auf die Innenseite jeder Materie ausübt. Da jedes Teilchen einen „Anker“ aus nicht-abgekühltem QGP besitzt, der direkt mit dem 4D-Meer verbunden ist, wird die Materie durch den äußeren Sog in die Tiefe (Richtung Innen) gezogen.
+* **Definition von Masse:** Masse ist in diesem Modell der mechanische Widerstand eines Teilchens gegen diesen permanenten 4D-Zug.

@@ -17,7 +17,7 @@ Um Missverständnisse in der räumlichen Orientierung innerhalb von Andrew’s G
 
 ---
 
-### **Interne Notizen & Korrekturen (für Paper Teil 2)**
+### **Interne Notizen & Korrekturen**
 
 **Thema: Materie-Entstehung und Thermische Grenzschicht**
 

@@ -6,8 +6,6 @@ Es bietet eine rein mechanische Lösung für zentrale Rätsel der modernen Physi
 
 ### Kernpunkte des Modells:
 * **Fundamentale Wechselwirkungen:** Der mechanische Ursprung der vier Grundkräfte, hergeleitet aus dem Spannungsverhältnis zwischen 3D-Materie und 4D-Medium.
-* **Einheitliche Galaxien-Formel:** Mechanische Herleitung einer universellen Konstante (vierte Wurzel aus 2 ≈ 1,189) zur präzisen Berechnung galaktischer Rotationsgeschwindigkeiten ohne Dunkle Materie.
-* **Empirische Validierung:** Nahezu 100 % Übereinstimmung (ø 99,4 %) mit realen Beobachtungsdaten der SPARC-Datenbank über alle Galaxientypen hinweg.
 * **Sterne als Energie-Pumpen:** Erklärung der zusätzlichen Raumkrümmung durch die energetische Aufladung und Spannungserhöhung der Quarks infolge von Sternenstrahlung (Ersatz für Dunkle Materie).
 * **Dunkle Energie & Expansion:** Erklärung der Raumausdehnung durch thermische Energieaufnahme aus dem 4D-Hintergrund (Wachstum des positiven Vakuums).
 * **Schwarze Löcher:** Definition als physische Perforationen (Durchbrüche) zum 4D-Kern, die als Fenster zum "Grund" fungieren.
